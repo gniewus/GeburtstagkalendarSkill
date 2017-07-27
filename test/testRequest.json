@@ -1,0 +1,26 @@
+{
+  "session": {
+    "sessionId": "SessionId.73647031-03e7-42be-a6b8-388ff255dbd0",
+    "application": {
+      "applicationId": "amzn1.ask.skill.b2740cd0-20b9-4b55-a109-45296d81f064"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AGWSJ2643ATKRC3ER3BX4TH2ASL6UTNLSUR6TXIAK7XJFWYPAHB76IFMP6XXIJVPGVNSKEHKRLK2AKR3FQ5ETMF3EAHQJWQN4Z4Q7L4NIQLTLVBQAPSYXYBUTJZIX5UCJ2DPGINYPPMNPOLQJHHCQEMZCYNRDOHD2IVZWQEJQ3SNJGGT2DLEKCT6SIZMIW5B2BW5K4XXYJGBNRI"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.47578e65-07f2-4b52-b534-40c3ff6cbbb4",
+    "locale": "de-DE",
+    "timestamp": "2017-07-27T00:33:44Z",
+    "intent": {
+      "name": "playSong",
+      "slots": {
+        
+      }
+    }
+  },
+  "version": "1.0"
+}

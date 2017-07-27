@@ -1,0 +1,4 @@
+getBirthday wer hat {Zeit} geburtstag
+getBirthday nenne die geburtstagkinder 
+getBirthday nenne die geburtstagkinder im {Zeit} 
+getBirthday sage die geburtstagkinder im {Zeit}
